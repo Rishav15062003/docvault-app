@@ -1,5 +1,11 @@
 # Doc Vault (Android)
 
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Build](https://img.shields.io/badge/Build-Gradle-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
+[![License](https://img.shields.io/badge/License-Personal%20%2F%20Educational-blue)](#license)
+
 Doc Vault is a secure Android app to store and manage personal images and documents in one place.
 
 ## Features
